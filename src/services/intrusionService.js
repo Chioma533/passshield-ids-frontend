@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000';
+const API_BASE_URL = 'https://passshield-gr34.onrender.com';
 
 /**
  * Uploads a network log CSV file to the Flask backend
